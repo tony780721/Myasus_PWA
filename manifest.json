@@ -1,6 +1,6 @@
 {
-    "name": "myasus",
-    "short_name": "myasus",
+    "name": "webtest",
+    "short_name": "webtest",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
